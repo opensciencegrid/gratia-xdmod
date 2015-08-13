@@ -1,0 +1,9 @@
+#!/usr/bin/python
+
+import sys
+
+import gratia_xdmod.main
+
+if __name__ == '__main__':
+    retval = gratia_xdmod.main.main()
+    sys.exit(retval)

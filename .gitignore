@@ -1,0 +1,6 @@
+*.dev.cfg
+test
+src/gratia_xdmod/*.pyc
+dist
+MANIFEST
+build
